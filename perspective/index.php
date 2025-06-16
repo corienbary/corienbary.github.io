@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<link href=' http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'><html>
+<header>
+<title>Perspective</title>
+<style>
+h1
+{
+font-size: 40px;
+font-family: Lora, georgia, verdana, arial, sans-serif;
+color: #2A4FB9;
+position: relative;
+left: 588px;
+}
+
+h2
+{
+font-size: 15px;
+font-family: Lora, georgia, verdana, arial, sans-serif;
+color: #2A4FB9;
+}
+
+.canvas
+{
+position: absolute;
+left: 50%;
+margin-left: -440px;
+top: 50px;
+width: 775;
+}
+
+p, ul, h2
+{
+text-align: left;
+font-family: Lora, georgia, verdana, arial, sans-serif;
+top: -395px;
+left: 235px;
+position: relative;
+width: 590px;
+color: #666666;
+}
+
+a
+{
+text-decoration: none;
+}
+
+.leftbar
+{
+width:175px;
+height:375px;
+}
+
+.button
+{
+background-image: url("knop2.png");
+margin: 15px;
+width: 165px;
+height: 50.5px;
+text-align: center;
+color: white;
+font-size: 18px;
+font-family: Lora, georgia, verdana, arial, sans-serif;
+line-height: 50px;
+}
+
+.line
+{
+background: #2A4FB9;
+height: 3px;
+width: 550px;
+top: -25px;
+position: relative;
+left: 270px;
+}
+
+
+</style>
+</header>
+
+
+<body>
+    <div class="canvas">
+
+        <h1>Perspective</h1>
+        <div class="line">&nbsp; </div>
+        <div class="mainfield">
+
+            <div class="leftbar">
+                <a href="index.php"><div class="button">project</div></a>
+                <a href="team.php"><div class="button">team</div></a>
+                <a href="news.php"><div class="button">news</div></a>
+                
+                
+            </div><div class="maintext"><p>
+We always take in a certain perspective since we are located in a specific place and see the world through our own eyes. Small wonder, therefore, that perspective is crucial
+to the interpretation of language, too. Languages are equipped with a wide variety of linguistic means that involve perspective. Think of words like <i>I</i> and <i>you</i>, <i>today</i> and <i>yesterday</i>, <i>come</i> and <i>go</i>, but also more subtle ones like expressives and attitudinal particles. It is these
+expressions that anchor utterances to their contexts. While perspectival elements are most of the time used from the perspective of the
+speaker, they can also be used from the perspective of someone else, a possibility that is fully exploited in
+narratives. </p>
+
+<p><img src="LOGO-ERC.jpg" align="right" style="width:180px; padding-left:10px; padding-bottom:10px"/>The central aim of the ERC-funded project <font color="#2A4FB9">Unraveling the Language of Perspective</font> is to deepen our understanding of perspective shifts. We focus on attitudinal particles, evaluative expressions, mood (subjunctive/optative), Free Indirect Discourse, and temporal expressions such as tense and aspect. We have a special interest in Ancient Greek, a language
+with a particularly rich perspective system. </p>
+
+<p>The project is hosted by section Philosophy of Mind and Language (FFTR) at the Radboud University Nijmegen.</p>
+                          
+ 
+
+
+</div></div>
+     </div>
+</body>
+
+</html>
